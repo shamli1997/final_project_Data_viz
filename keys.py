@@ -1,0 +1,1 @@
+OPENCAGE_API_KEY="aa835ed0dd784af9ba26e7d05a18b3bc"

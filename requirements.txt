@@ -3,3 +3,7 @@ folium
 streamlit_folium
 geocoder
 geopy
+pandas
+sentence_transformers
+faiss
+numpy
